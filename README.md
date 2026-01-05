@@ -5,7 +5,7 @@ Associate Software Engineer (.NET) with hands-on experience in C#, ASP.NET Core 
 
 ---
 
-### 🛠 Technical Skills
+### Technical Skills 🔍
 * **Languages & Frameworks:** C#, SQL, JS, ASP.NET Core MVC, Web API.
 * **Database & ORM:** SQL Server, Linq, ADO.NET, Entity Framework Core, CRUD, Stored procedures.
 * **Architecture & Clean Code:** OOP, Code first & DB first, Repository Pattern, Dependency Injection, Restful API.
@@ -13,13 +13,13 @@ Associate Software Engineer (.NET) with hands-on experience in C#, ASP.NET Core 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects 🔥
 * **[Focus & Read](https://github.com/AbdallahJKhader/Focus-and-read):** An AI-powered educational web application for neurodivergent learners (ADHD) built with ASP.NET Core MVC.
 * **[RestoM](https://github.com/AbdallahJKhader/RestoM):** A comprehensive Restaurant Management System built with ASP.NET Core Web API and Entity Framework Core.
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 * **Portfolio:** [abdallahjkhader-portfolio.netlify.app](https://abdallahjkhader-portfolio.netlify.app)
 * **LinkedIn:** [linkedin.com/in/abdallah-khader-b70739230](https://www.linkedin.com/in/abdallah-khader-b70739230)
 * **Email:** AbdallahJKhader@gmail.com
