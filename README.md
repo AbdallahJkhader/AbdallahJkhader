@@ -21,7 +21,7 @@ Associate Software Engineer (.NET) with hands-on experience in C#, ASP.NET Core 
 
 ### Connect with me:
 * **Portfolio:** [abdallahjkhader-portfolio.netlify.app](https://abdallahjkhader-portfolio.netlify.app)
-* **LinkedIn:** [linkedin.com/in/abdallah-khader-b70739230](https://www.linkedin.com/in/abdallah-khader-b70739230)
+* **LinkedIn:** [linkedin.com/in/abdallah-khader-b70739230](https://www.linkedin.com/in/abdallah-j-khader-b70739230)
 * **Email:** AbdallahJKhader@gmail.com
 
 
