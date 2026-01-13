@@ -1,15 +1,15 @@
 # Hi there, I'm Abdallah J. Khader! 👋
 
-### Associate Software Engineer (.NET) 💻
-Associate Software Engineer (.NET) with hands-on experience in C#, ASP.NET Core (MVC & Web API) and Entity Framework Core. I am focused on backend development, building RESTful APIs, implementing business logic, and integrating SQL Server using Code First and DB First. I have a solid understanding of OOP and clean code principles.
+### Backend .NET Developer
+.NET Developer with hands-on experience in building web applications using ASP.NET Core (MVC & Web API). Focused on writing clean, maintainable code by applying SOLID principles and design patterns like Repository and Unit of Work. Proficient in SQL Server and Entity Framework Core, with a strong interest in developing structured and scalable backend solutions.
 
 ---
 
 ### Technical Skills 🔍
-* **Languages & Frameworks:** C#, SQL, JS, ASP.NET Core MVC, Web API.
-* **Database & ORM:** SQL Server, Linq, ADO.NET, Entity Framework Core, CRUD, Stored procedures.
-* **Architecture & Clean Code:** OOP, Code first & DB first, Repository Pattern, Dependency Injection, Restful API.
-* **Process & Version Control:** Git & Github, Visual Studio / VS Code.
+* **Backend .NET Development:** ASP. NET Core ( Web API, MVC) , C# , RESTful APIs.
+* **Database & ORM:** LINQ, Entity Framework Core ( Code First ) , SQL Server.
+* **Architecture & Clean Code:** SOLID, DRY/KISS, Dependency Injection (DI), Repository & Unit of Work Patterns.
+* **Front-End & Tools:** HTML, CSS, JavaScript, Bootstrap, Git/ GitHub, Postman.
 
 ---
 
